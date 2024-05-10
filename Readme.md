@@ -16,7 +16,7 @@ A bash script for downloading videos concurrently from multiple URLs with custom
 ## Installation
 - Clone the repository:
 ```
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/gryphonribz/VidGrabberPro9000.git
 ```
 
 - Make the script executable:
